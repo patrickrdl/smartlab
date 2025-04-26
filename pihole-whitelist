@@ -1,9 +1,9 @@
 #CustomDomains
 amazon.de
-(\.|^)onesignal.com
-(\.|^)netflix.com
-(\.|^)unity3d.com
-cdp.cloud.unity3d.com
+(\.|^)onesignal\.com$
+(\.|^)netflix\.com$
+(\.|^)unity3d\.com$
+cdp.cloud.unity3d\.com$
 
 #Microsoft365
 outlook.office.com
