@@ -1,4 +1,31 @@
 #CustomDomains
+# Microsoft services
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+
+# Google services
+accounts.google.com
+clients2.google.com
+clients4.google.com
+
+# Apple services
+appleid.apple.com
+token.safebrowsing.apple
+
+# Other services
+gravatar.com
+s.shopify.com
+api.github.com
+bitpanda.com
+binance.com
+orf.at
+feuerwehr-mureck.at
+linkedin.com
+amazon.de
+
+
 amazon.de
 (\.|^)onesignal\.com$
 (\.|^)netflix\.com$
